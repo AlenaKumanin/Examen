@@ -1,0 +1,12 @@
+.footer * {
+    color: aliceblue;
+    background: rgb(199, 199, 209);
+
+}
+.btn.btn-primary {
+    padding: 10px 20px;
+    border-radius: 0;
+    background: red;
+    background-color: black;
+    transition: all 0.5s;
+    }
